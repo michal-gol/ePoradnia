@@ -1,0 +1,8 @@
+# nie chcemy ponizszych plikow o nazwie *.rozszerzenie, albo nazwa.rozszerzenie
+# no go list
+#gitignore tymczasowo zakomentowany, aby przeszedł do rezpozytorium
+#.gitignore
+auth.py
+
+# uwzgledniaj !nazwapliku.rozszerzenie np. !zadania.html
+# always go list
